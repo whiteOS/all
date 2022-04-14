@@ -1,0 +1,1 @@
+[{"domain": "yktfw.csust.edu.cn", "httpOnly": true, "name": "ASP.NET_SessionId", "path": "/", "secure": false, "value": "vjzcvh5x1kbjz2wbleyc4pd5"}]
